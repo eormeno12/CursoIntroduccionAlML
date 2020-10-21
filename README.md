@@ -1,4 +1,4 @@
-# CursoIntroduccionAlMachineLearning
+# Curso Introduccion Al Machine Learning
 Apuntes del Curso Introducción al Machine Learning de Platzi.
 
 <body>
